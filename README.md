@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.canva.com/design/DAFt0MgYZD0/tTNuJPgADG6syevnuZf-KQ/watch?utm_content=DAFt0MgYZD0&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish))]
+[![MasterHead]([])]
 <h1 align="center">Hi 👋, I'm Kemith</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
